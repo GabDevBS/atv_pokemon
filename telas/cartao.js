@@ -12,6 +12,7 @@ export default function Cartao({ nome, imagem, onPress}) {
 export const estilo = StyleSheet.create({
     img:{
         height: 80,
+        width: 80
     },
     cartao:{
         backgroundColor: '#3ca0c5',
